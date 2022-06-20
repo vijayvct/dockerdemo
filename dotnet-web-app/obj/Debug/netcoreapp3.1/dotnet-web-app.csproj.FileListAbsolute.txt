@@ -34,3 +34,13 @@ C:\Demos\Docker-June2022\Demos\dotnet-web-app\obj\Debug\netcoreapp3.1\dotnet-web
 C:\Demos\Docker-June2022\Demos\dotnet-web-app\obj\Debug\netcoreapp3.1\dotnet-web-app.pdb
 C:\Demos\Docker-June2022\Demos\dotnet-web-app\obj\Debug\netcoreapp3.1\dotnet-web-app.genruntimeconfig.cache
 C:\Demos\Docker-June2022\Demos\dotnet-web-app\obj\Debug\netcoreapp3.1\dotnet-web-app.csproj.CopyComplete
+C:\Demos\Docker-June2022\Demos\dotnet-web-app\bin\Debug\netcoreapp3.1\out\out\web.config
+C:\Demos\Docker-June2022\Demos\dotnet-web-app\bin\Debug\netcoreapp3.1\out\web.config
+C:\Demos\Docker-June2022\Demos\dotnet-web-app\bin\Debug\netcoreapp3.1\out\appsettings.Development.json
+C:\Demos\Docker-June2022\Demos\dotnet-web-app\bin\Debug\netcoreapp3.1\out\appsettings.json
+C:\Demos\Docker-June2022\Demos\dotnet-web-app\bin\Debug\netcoreapp3.1\out\dotnet-web-app.deps.json
+C:\Demos\Docker-June2022\Demos\dotnet-web-app\bin\Debug\netcoreapp3.1\out\dotnet-web-app.runtimeconfig.json
+C:\Demos\Docker-June2022\Demos\dotnet-web-app\bin\Debug\netcoreapp3.1\out\out\appsettings.Development.json
+C:\Demos\Docker-June2022\Demos\dotnet-web-app\bin\Debug\netcoreapp3.1\out\out\appsettings.json
+C:\Demos\Docker-June2022\Demos\dotnet-web-app\bin\Debug\netcoreapp3.1\out\out\dotnet-web-app.deps.json
+C:\Demos\Docker-June2022\Demos\dotnet-web-app\bin\Debug\netcoreapp3.1\out\out\dotnet-web-app.runtimeconfig.json
